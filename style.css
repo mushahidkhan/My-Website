@@ -1,0 +1,84 @@
+body {
+ 	background-image: url("me1.png");
+ 		background-repeat: no-repeat;
+ 		 background-size: cover;
+}
+
+ 
+
+h1 {
+color: #ccc; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+font-size: 50px; 
+margin-bottom: 0px;
+text-align: center; 
+text-shadow: 0 1px 1px black;
+}
+
+.nameClass{
+	margin-top: 30px;
+}
+
+h4 {
+color: #d54d7b; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+ margin-bottom: 0px;
+text-align: center; 
+text-shadow: 0 1px 1px black;
+}
+
+.aboutMeClass {
+	height: 330px;
+ }
+
+.menuBars {
+	border-style: solid;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+ 	border-color: #ccc;
+	padding-right: 15px;
+	padding-bottom: 10px;
+ }
+
+
+h5 {
+color: white; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+ margin-bottom: 0px;
+text-align: center; 
+text-shadow: 0 1px 1px black;
+}
+
+.home {
+	border-right-width: 1px;
+	border-left-width: 1px;
+}
+
+.projects, .blog, .contact{
+	border-left-width: 0px;
+	border-right-width: 1px;
+}
+
+.home{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.contact {
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+ a:hover {
+	color: #ccc;
+	text-decoration: none;
+}
+
+h5:hover {
+	color:#ccc;
+}
+
+
+
+ 
+ 

@@ -1,0 +1,138 @@
+body {
+ 	background-image: url("me1.png");
+ 		background-repeat: no-repeat;
+ 		 background-size: cover;
+}
+.menuBars {
+	border-style: solid;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+ 	border-color: #ccc;
+	padding-right: 15px;
+	padding-bottom: 10px;
+ }
+
+.navBarArea{
+	margin-top: 40px;
+}
+
+h5 {
+color: white; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+ margin-bottom: 0px;
+text-align: center; 
+text-shadow: 0 1px 1px black;
+ }
+
+.home {
+	border-right-width: 1px;
+	border-left-width: 1px;
+}
+
+.projects, .blog, .contact{
+	border-left-width: 0px;
+	border-right-width: 1px;
+}
+
+.home{
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.contact {
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+ a:hover {
+	color: #ccc;
+	text-decoration: none;
+}
+
+h5:hover {
+	color:#ccc;
+}
+
+.cellImageArea {
+	margin-bottom: 10px;
+}
+
+.emailImageArea {
+	margin-bottom: 10px;
+}
+
+h4,h5 {
+color: white; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+ margin-bottom: 0px;
+text-align: center; 
+text-shadow: 0 1px 1px black;
+}
+
+.myName {
+color: #ccc; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+ text-align: center; 
+text-shadow: 0 1px 1px black;
+}
+
+.contactMeArea {
+	height: 405px;
+ }
+
+ .contactMeTitle {
+ 	color: white; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+ text-align: center; 
+text-shadow: 0 1px 1px black;
+ }
+ 
+
+ .titleArea{
+ 	margin-bottom: 20px;
+ }
+
+
+
+   .contactMethodArea {
+   	margin-bottom: 100px;
+   }
+
+   .contactMeInformation {
+   	overflow: hidden;
+   	border-radius: 10px;
+	background-color: rgba(0, 0, 0, 0.2); 
+	padding-top: 10px;
+   }
+
+#usr, .sendButton, #comment{
+	color: black; 
+font-family:'Lucida Handwriting', 'Monotype Corsiva', Zapfino, 'URW Chancery L', 'Courier New', Courier, monospace;
+ margin-bottom: 0px;
+ text-shadow: 0 1px 1px #ccc;
+}
+
+.divider {
+	width: 1px;
+   	background-color: white;
+  }
+
+.sendButton {
+	margin-top: 10px;
+}
+
+.firstRowOfSocialIcons {
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-top: 20px;
+  }
+
+.secondRowOfSocialIcons {
+	padding-top: 10px;
+	padding-left: 10px;
+ }
+
+ .thirdRowOfSocialIcons {
+	padding-top: 10px;
+	padding-left: 10px;
+ }
